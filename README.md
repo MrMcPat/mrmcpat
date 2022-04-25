@@ -3,6 +3,8 @@
 ## My Website
 https://mrmcpat.github.io/
 
+You can reach me at patrick.liang45@gmail.com
+
 <!--
 **MrMcPat/mrmcpat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
