@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Patrick Liang</h1>
 <h3 align="center">I am a Software Engineer based in NYC currently looking for employment opportunities</h3>
 
-- 🔭 I’m currently working on **Data Structures and Algorithms**
-
-- 🌱 I’m currently learning **Data Structures and Algorithms and React Native soon**
-
 - Contact me at patrick.liang45@gmail.com
 
 - Connect with me on [https://www.linkedin.com/in/patrick-liang-42525b14b/](https://www.linkedin.com/in/patrick-liang-42525b14b/)
+
+- 🔭 I’m currently working on **Data Structures and Algorithms**
+
+- 🌱 I’m currently learning **Data Structures and Algorithms and React Native soon**
 
 - 👨‍💻 All of my projects are available at [mrmcpat.github.io](mrmcpat.github.io)
 
