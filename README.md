@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms and React Native soon**
 
--Contact me at [patrick.liang45@gmail.com](patrick.liang45@gmail.com)
+- Contact me at patrick.liang45@gmail.com
 
--Connect with me on [https://www.linkedin.com/in/patrick-liang-42525b14b/](https://www.linkedin.com/in/patrick-liang-42525b14b/)
+- Connect with me on [https://www.linkedin.com/in/patrick-liang-42525b14b/](https://www.linkedin.com/in/patrick-liang-42525b14b/)
 
 - 👨‍💻 All of my projects are available at [mrmcpat.github.io](mrmcpat.github.io)
 
