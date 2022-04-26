@@ -3,7 +3,11 @@
 
 - 🔭 I’m currently working on **Data Structures and Algorithms**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms and React Native ASAP**
+- 🌱 I’m currently learning **Data Structures and Algorithms and React Native soon**
+
+-Contact me at [patrick.liang45@gmail.com](patrick.liang45@gmail.com)
+
+-Connect with me on [https://www.linkedin.com/in/patrick-liang-42525b14b/](https://www.linkedin.com/in/patrick-liang-42525b14b/)
 
 - 👨‍💻 All of my projects are available at [mrmcpat.github.io](mrmcpat.github.io)
 
@@ -14,8 +18,6 @@
 - 📫 How to reach me **patrick.liang45@gmail.com**
 
 - ⚡ Fun fact **I crack lame jokes, make memes.**
-
-<h3 align="left">Connect with me:< on [https://www.linkedin.com/in/patrick-liang-42525b14b/](https://www.linkedin.com/in/patrick-liang-42525b14b/)/h3>
 
 <p align="left">
 </p>
