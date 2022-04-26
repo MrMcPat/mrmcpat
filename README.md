@@ -15,7 +15,8 @@
 
 - ⚡ Fun fact **I crack lame jokes, make memes.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:< on [https://www.linkedin.com/in/patrick-liang-42525b14b/](https://www.linkedin.com/in/patrick-liang-42525b14b/)/h3>
+
 <p align="left">
 </p>
 
