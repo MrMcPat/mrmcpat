@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms and React Native soon**
 
-- 👨‍💻 All of my projects are available at [mrmcpat.github.io](mrmcpat.github.io)
+- 👨‍💻 All of my projects are available at [mrmcpat.github.io](https://mrmcpat.github.io)
 
 - 📝 I regularly write articles on [https://medium.com/@pl204511194](https://medium.com/@pl204511194)
 
