@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Data Structures and Algorithms**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms and React Native soon**
+- 🌱 I’m currently learning **Data Structures and Algorithms and React Native**
 
 - 👨‍💻 All of my projects are available at [mrmcpat.github.io](https://mrmcpat.github.io)
 
