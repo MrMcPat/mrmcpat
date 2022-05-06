@@ -5,8 +5,6 @@
 
 - Connect with me on [https://www.linkedin.com/in/patrick-liang-42525b14b/](https://www.linkedin.com/in/patrick-liang-42525b14b/)
 
-- 🔭 I’m currently working on **Data Structures and Algorithms**
-
 - 🌱 I’m currently learning **React Native**
 
 - 👨‍💻 All of my projects are available at [mrmcpat.github.io](https://mrmcpat.github.io)
