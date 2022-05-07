@@ -5,13 +5,13 @@
 
 - Connect with me on [https://www.linkedin.com/in/patrick-liang-42525b14b/](https://www.linkedin.com/in/patrick-liang-42525b14b/)
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Redux and Typescript**
 
 - 👨‍💻 All of my projects are available at [mrmcpat.github.io](https://mrmcpat.github.io)
 
 - 📝 I regularly write articles on [https://medium.com/@pl204511194](https://medium.com/@pl204511194)
 
-- 💬 Ask me about **React, Javascript, Ruby, Ruby on Rails, SQL, Front-end, Back-end.**
+- 💬 Ask me about **React, Javascript, Ruby, Ruby on Rails, SQL, Front-end, Back-end, React Native.**
 
 - 📫 How to reach me **patrick.liang45@gmail.com**
 
