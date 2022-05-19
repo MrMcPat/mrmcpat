@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Patrick Liang</h1>
-<h3 align="center">I am a Software Engineer based in NYC currently looking for employment opportunities</h3>
+<h3 align="center">I am a Software Developer based in NYC currently looking for employment opportunities</h3>
 
 - Contact me at patrick.liang45@gmail.com
 
