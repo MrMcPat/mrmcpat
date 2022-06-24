@@ -5,7 +5,7 @@
 
 - Connect with me on [https://www.linkedin.com/in/patrick-liang-42525b14b/](https://www.linkedin.com/in/patrick-liang-42525b14b/)
 
-- 🌱 I’m currently learning **Redux and Typescript**
+- 🌱 I’m currently learning **Redux/Express.js/MongoDB**
 
 - 👨‍💻 All of my projects are available at [mrmcpat.github.io](https://mrmcpat.github.io)
 
