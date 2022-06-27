@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [mrmcpat.github.io](https://mrmcpat.github.io)
 
-- 📝 I regularly write articles on [https://medium.com/@pl204511194](https://medium.com/@pl204511194)
+- 📝 I have some blogs on [https://medium.com/@pl204511194](https://medium.com/@pl204511194)
 
 - 💬 Ask me about **React, Javascript, Ruby, Ruby on Rails, SQL, Front-end, Back-end, React Native.**
 
