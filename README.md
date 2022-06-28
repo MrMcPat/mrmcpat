@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **patrick.liang45@gmail.com**
 
-- ⚡ Fun fact **I crack lame jokes, make memes.**
+- ⚡ Fun fact: **I crack lame jokes, make memes.**
 
 <p align="left">
 </p>
