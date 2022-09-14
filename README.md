@@ -5,8 +5,6 @@
 
 - Connect with me on [https://www.linkedin.com/in/patrick-liang-42525b14b/](https://www.linkedin.com/in/patrick-liang-42525b14b/)
 
-- 🌱 I’m currently learning **Express.js/MongoDB** and **Python**.
-
 - 👨‍💻 All of my projects are available at [mrmcpat.github.io](https://mrmcpat.github.io)
 
 - 📫 How to reach me **patrick.liang45@gmail.com**
